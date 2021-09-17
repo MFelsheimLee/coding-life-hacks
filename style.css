@@ -19,7 +19,11 @@ button {
 }
 
 .buffer {
-	height: 50px;
+	height: 65px;
+}
+
+.buffer1 {
+	height: 170px;
 }
 
 .btn {
@@ -39,4 +43,9 @@ button {
 
 .btn-xl {
 	padding: 1rem 2 rem;
+}
+
+.container {
+	display: flex;
+	justify-content: center;
 }
